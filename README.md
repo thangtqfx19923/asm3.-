@@ -1,5 +1,5 @@
 ```
-Assignment 02 Stater
+Assignment 3
 ├─ css
 │  ├─ font.css
 │  ├─ mobile.css
